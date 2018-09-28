@@ -3,18 +3,16 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ilja Pavlovs
-    tagline: Developer In Test
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Software Developer In Test
 
     # Sidebar links
     email: ilja.pavlovs@gmail.com
    
-    website: blog.webjeda.com #do not add http://
     linkedin: ilja-pavlovs-b5860279
     github: iljapavlovs
     gitlab:
@@ -49,9 +47,3 @@ career-profile:
       6+ years of IT experience in test automation with emphasis in ATDD practice. 
       Providing company level expertise on test automation processes. 
       Developing and conducting training courses on Java and Selenium WebDriver
-
-
-
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
